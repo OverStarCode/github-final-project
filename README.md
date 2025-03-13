@@ -1,5 +1,3 @@
-# github-final-project
-
 # Contributor Code of Conduct
 
 ## Our Commitment
